@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @alvinamalindra
+- 👀 I’m interested in Python, Statistics
+- 🌱 I’m currently learning Jupyter NoteBook
+- 📫 How to reach me alvinamalindra@gmail.com
